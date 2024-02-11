@@ -1,4 +1,8 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpkcXRycGYzemg4MHJsdnV3NTFpOGZ3MDd6Y20zZHBsOXF1cHc1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="300"/>
+</div>
+
+### welcome👋
 
 <!--
 **semestersmighter/semestersmighter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
